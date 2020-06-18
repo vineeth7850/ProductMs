@@ -1,0 +1,187 @@
+
+Écom.management.ProductMS.dto.ProductDTO#valueOf(Lcom/management/ProductMS/entity/Product;)Lcom/management/ProductMS/dto/ProductDTO;v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÉ É(""1*˘9
+1v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÖ Ö()”–
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÖ Ö('-
+%0'com.management.ProductMS.dto.ProductDTO"'com.management.ProductMS.dto.ProductDTOÂ
+‚
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÖ Ö()
+%1"1com.management.ProductMS.dto.ProductDTO#<init>()V*/
+-
+%0'com.management.ProductMS.dto.ProductDTOÈ
+Ê
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÖ Ö(*5
+
+productDTO'com.management.ProductMS.dto.ProductDTO"__id*/
+-
+%0'com.management.ProductMS.dto.ProductDTOõò
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÜ Ü()
+%2java.lang.String"Dcom.management.ProductMS.entity.Product#getBrand()Ljava/lang/String;*4
+2
+product'com.management.ProductMS.entity.Product2
+getBrand()øº
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaÜ Ü(*
+
+%3void"Ecom.management.ProductMS.dto.ProductDTO#setBrand(Ljava/lang/String;)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+%2java.lang.String2setBrand(Ljava/lang/String;)°û
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaá á(/
+%4java.lang.String"Gcom.management.ProductMS.entity.Product#getCategory()Ljava/lang/String;*4
+2
+product'com.management.ProductMS.entity.Product2getCategory()≈¬
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaá á(0
+
+%5void"Hcom.management.ProductMS.dto.ProductDTO#setCategory(Ljava/lang/String;)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+%4java.lang.String2setCategory(Ljava/lang/String;)ß§
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaà à(5
+%6java.lang.String"Jcom.management.ProductMS.entity.Product#getDescription()Ljava/lang/String;*4
+2
+product'com.management.ProductMS.entity.Product2getDescription()À»
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaà à(6
+
+%7void"Kcom.management.ProductMS.dto.ProductDTO#setDescription(Ljava/lang/String;)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+%6java.lang.String2"setDescription(Ljava/lang/String;)õò
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaâ â()
+%8java.lang.String"Dcom.management.ProductMS.entity.Product#getImage()Ljava/lang/String;*4
+2
+product'com.management.ProductMS.entity.Product2
+getImage()øº
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaâ â(*
+
+%9void"Ecom.management.ProductMS.dto.ProductDTO#setImage(Ljava/lang/String;)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+%8java.lang.String2setImage(Ljava/lang/String;)Ä˝
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaä ä()
+%10float"3com.management.ProductMS.entity.Product#getPrice()F*4
+2
+product'com.management.ProductMS.entity.Product2
+getPrice()îë
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaä ä(*
+%11void"4com.management.ProductMS.dto.ProductDTO#setPrice(F)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+%10float2setPrice(F)Ä˝
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaã ã(+
+
+%12int"4com.management.ProductMS.entity.Product#getProdid()I*4
+2
+product'com.management.ProductMS.entity.Product2getProdid()îë
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaã ã(,
+%13void"5com.management.ProductMS.dto.ProductDTO#setProdid(I)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+
+%12int2setProdid(I)®•
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaå å(5
+%14java.lang.String"Jcom.management.ProductMS.entity.Product#getProductName()Ljava/lang/String;*4
+2
+product'com.management.ProductMS.entity.Product2getProductName()Õ 
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaå å(6
+%15void"Kcom.management.ProductMS.dto.ProductDTO#setProductName(Ljava/lang/String;)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+%14java.lang.String2"setProductName(Ljava/lang/String;)Ä˝
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaç ç(+
+
+%16int"4com.management.ProductMS.entity.Product#getRating()I*4
+2
+product'com.management.ProductMS.entity.Product2getRating()îë
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaç ç(,
+%17void"5com.management.ProductMS.dto.ProductDTO#setRating(I)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+
+%16int2setRating(I)ÑÅ
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaé é(/
+
+%18int"6com.management.ProductMS.entity.Product#getSellerId()I*4
+2
+product'com.management.ProductMS.entity.Product2getSellerId()òï
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaé é(0
+%19void"7com.management.ProductMS.dto.ProductDTO#setSellerId(I)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+
+%18int2setSellerId(I)˛˚
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaè è()
+
+%20int"3com.management.ProductMS.entity.Product#getStock()I*4
+2
+product'com.management.ProductMS.entity.Product2
+getStock()íè
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaè è(*
+%21void"4com.management.ProductMS.dto.ProductDTO#setStock(I)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+
+%20int2setStock(I)®•
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaê ê(5
+%22java.lang.String"Jcom.management.ProductMS.entity.Product#getSubCategory()Ljava/lang/String;*4
+2
+product'com.management.ProductMS.entity.Product2getSubCategory()Õ 
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaê ê(6
+%23void"Kcom.management.ProductMS.dto.ProductDTO#setSubcategory(Ljava/lang/String;)V*7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO*
+
+%22java.lang.String2"setSubcategory(Ljava/lang/String;)"±
+v
+jC:/Users/raju suvarna/Downloads/final/ProductMS/src/main/java/com/management/ProductMS/dto/ProductDTO.javaí í(7
+5
+
+productDTO'com.management.ProductMS.dto.ProductDTO:2
+product'com.management.ProductMS.entity.ProductB+")
+'com.management.ProductMS.dto.ProductDTO
